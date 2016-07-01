@@ -1,0 +1,2 @@
+# KinePo
+KinePo development strategies
